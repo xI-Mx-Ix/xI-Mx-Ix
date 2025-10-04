@@ -23,11 +23,6 @@ Because numbers make everything look more professional:
   <a href="https://github.com/xI-Mx-Ix">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xI-Mx-Ix&show_icons=true&hide_border=false&theme=radical&count_private=true&rank_icon=github" alt="GitHub Stats"/>
   </a>
-
-  <a href="https://github.com/xI-Mx-Ix">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xI-Mx-Ix&layout=compact&hide_border=false&theme=radical" alt="Top Languages"/>
-  </a>
-
 </div>
 
 ---
