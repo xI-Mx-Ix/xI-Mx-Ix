@@ -32,4 +32,6 @@ Because numbers make everything look more professional:
 ```bash
 > git commit -m "it works, don’t touch it"
 ```
+---
+```bash
 Afraid of GoodBlaster05
