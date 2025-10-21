@@ -1,16 +1,15 @@
 # Hi there, I'm xI-Mx-Ix 👋
 
 I do code. Sometimes it even works.  
-Mostly playing around with Minecraft modding, UI experiments, and occasionally pretending I know what I’m doing.
+Mostly playing around with Minecraft modding, physics experiments, and occasionally pretending I know what I’m doing.
 
 ---
 
 ### About Me
 
-* 🛠 Building random things until they accidentally become projects  
-* 🎮 Turning "just one line of code" into a 3-hour debugging session  
-* ⚡ Probably programming when I say I'm "gaming"  
-* 🤖 Strong believer that commit messages should be at least 10% sarcasm  
+* Building random things until they accidentally become projects
+* Turning "just one line of code" into a 3-hour debugging session
+* Probably programming when I say I'm "gaming"
 
 ---
 
