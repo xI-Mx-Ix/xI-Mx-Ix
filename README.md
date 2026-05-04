@@ -24,7 +24,7 @@ Because numbers make everything look more professional:
   </a>
 
    <a href="https://github.com/xI-Mx-Ix">
-    <img height="180em" src="https://github-readme-stats-peach-theta-88.vercel.app/api/top-langs/?username=xI-Mx-Ix&layout=compact&hide_border=false&theme=radical" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats-peach-theta-88.vercel.app/api/top-langs/?username=xI-Mx-Ix&layout=compact&hide_border=false&theme=radical&exclude_repo=vx-jolt-jni" alt="Top Languages"/>
   </a>
 </div>
 
